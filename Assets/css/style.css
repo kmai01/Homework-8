@@ -1,5 +1,5 @@
 .container {
-    background-color: white;
+    background-color: cornflowerblue;
 }
 body {
     background: url(../images/handmadepaper.png)
@@ -38,6 +38,7 @@ body {
 
  .button-1,.button-2,.button-3 {
      padding: 10px;
+     color: cornsilk;
      
 
  
@@ -51,6 +52,12 @@ body {
     color: #4aaaa5; 
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+h3{
+    color: white; 
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
 
 .card-title{
 
